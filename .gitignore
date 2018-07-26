@@ -1,0 +1,7 @@
+LICENSE
+face_extract.egg-info
+build
+dist
+face_extract.egg-info
+venv
+.idea/
